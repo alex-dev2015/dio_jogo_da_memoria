@@ -42,7 +42,7 @@ Clonar repositório e executar no navegador.
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+![Jogo](https://github.com/alex-dev2015/dio_jogo_da_memoria/blob/master/img/Jogo%20da%20Mem%C3%B3ria%20-%20Mozilla%20Firefox%202020-10-06%2016-22-00.gif)
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
